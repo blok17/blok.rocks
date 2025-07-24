@@ -19,7 +19,7 @@ permalink: /
 
   if(/Android|webOS|iPhone|iPad|iPod|BlackBerry|IEMobile|Opera Mini/i.test(navigator.userAgent)){
     // MOBILE
-   document.write('</br></br>Hi. Welcome to LegoLand. But with Computers.</br></br>')
+   document.write('</br></br><div style="text-align:center">Hi. Welcome to LegoLand. But with Computers.</div></br></br>')
     
 } else {
     /* COMPUTER 
