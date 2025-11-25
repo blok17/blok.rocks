@@ -1,0 +1,5 @@
+current directory: /home/blok17/Documents/blok.rocks/vendor/bundle/ruby/3.3.0/gems/sass-embedded-1.88.0/ext/sass
+/usr/bin/ruby3.3 -I/usr/lib/ruby/vendor_ruby -rrubygems /home/blok17/Documents/blok.rocks/vendor/bundle/ruby/3.3.0/gems/rake-13.2.1/exe/rake RUBYARCHDIR\=/home/blok17/Documents/blok.rocks/vendor/bundle/ruby/3.3.0/extensions/x86_64-linux-gnu/3.3.0/sass-embedded-1.88.0 RUBYLIBDIR\=/home/blok17/Documents/blok.rocks/vendor/bundle/ruby/3.3.0/extensions/x86_64-linux-gnu/3.3.0/sass-embedded-1.88.0
+gem install --force --install-dir /home/blok17/Documents/blok.rocks/vendor/bundle/ruby/3.3.0/gems/sass-embedded-1.88.0/ext/sass/ruby --no-document --ignore-dependencies --platform x86_64-linux-gnu --version 1.88.0 sass-embedded
+mv /home/blok17/Documents/blok.rocks/vendor/bundle/ruby/3.3.0/gems/sass-embedded-1.88.0/ext/sass/ruby/gems/sass-embedded-1.88.0-x86_64-linux-gnu/ext/sass/dart-sass dart-sass
+rm -rf /home/blok17/Documents/blok.rocks/vendor/bundle/ruby/3.3.0/gems/sass-embedded-1.88.0/ext/sass/ruby

@@ -1,4 +1,4 @@
-title: "Blok's Cyber Security Blog"
+title: "Blok17's Cyber Security Blog"
 description: "I like to break stuff and whenever I have time to waste, I hack shit and I talk about it here."
 
 baseurl: "/"
@@ -6,16 +6,16 @@ url: "https://blok.rocks"
 
 header_pages:
   - index.md
-  - whoami.md
   - blog_list.md
   - doc_list.md
+  - contacts.md
 collections:
   blog:
     output: true
   docs:
     output: true
   
-footer: 'follow me on <a style="color:red;" href="https://x.com/_blok17">X</a>'
+footer: 'proudly modified by blockyboy, starting from <a href="https://github.com/b2a3e8/jekyll-theme-console" target="_blank">this theme</a> <3  '
 
 style: dark # dark (default) or light
 #listen_for_clients_preferred_style: true # true or false (default)
